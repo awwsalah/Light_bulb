@@ -18,7 +18,7 @@ A simple JavaScript project to control a light bulb's state (on/off) using HTML 
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/awwsalah/Light_bulb
    ```
 
 2. Open `index.html` in your browser.
