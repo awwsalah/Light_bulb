@@ -1,4 +1,3 @@
-````markdown
 # Light Bulb Project
 
 A simple JavaScript project to control a light bulb's state (on/off) using HTML and CSS.
@@ -16,15 +15,18 @@ A simple JavaScript project to control a light bulb's state (on/off) using HTML 
 
 ## Setup
 
-1.  Clone the repository:
+1. Clone the repository:
 
-    ```bash
-    git clone <repository_url>
-    ```
+   ```bash
+   git clone <repository_url>
+   ```
 
-2.  Open `index.html` in your browser.
+2. Open `index.html` in your browser.
 
 ## Usage
 
 Click the button to toggle the light bulb on and off.
-````
+
+```
+
+```
